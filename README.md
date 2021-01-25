@@ -30,4 +30,4 @@
 5. Now start EnableEureka first then employee and finally client service to run and call endpoint. 
    *http://localhost8050/clientService 
 
-6. That's it& you will see the json response.
+6. That's it & you will see the employee details in json response. 
