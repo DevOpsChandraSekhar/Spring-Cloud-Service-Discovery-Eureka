@@ -9,7 +9,7 @@
    *https://csrklive.blogspot.com/2021/01/spring-cloud-eureka.html
 
 3. Create employee service project & if you need help follow instructions with beow url. 
-   *https://csrklive.blogspot.com/2021/01/end-service-setup-employee-service.html  
+   *https://csrklive.blogspot.com/2021/01/end-service-setup-employee-service.html 
     
     <!-- Add Web and  Eureka Discovery dependencies -->
 
@@ -25,7 +25,7 @@
 	</dependencies>
 	
 4. Again create one more service called client-service with the same dependencies.
-   *https://csrklive.blogspot.com/2021/01/client-service-setup-spring-cloud-part3.html    
+   *https://csrklive.blogspot.com/2021/01/client-service-setup-spring-cloud-part3.html 
 
 5. Now start EnableEureka first then employee and finally client service to run and call endpoint. 
    *http://localhost8050/clientService 
